@@ -10,7 +10,7 @@
     "cypress:open": "cypress open"
   },
   "devDependencies": {
-    "vite": "^4.4.5"
+    "vite": "^4.5.0"
   },
   "dependencies": {
     "cypress": "^13.5.0"
